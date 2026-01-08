@@ -23,7 +23,7 @@ A modern web application that uses Google's Gemini AI to generate responsive, an
 
 ## Website Preview
 
-![Website Screenshot]()
+![Website Screenshot](https://github.com/VedantBudhabaware/Ai-component-generator/blob/main/public/web-photo.png)
 
 ## Tech Stack
 
